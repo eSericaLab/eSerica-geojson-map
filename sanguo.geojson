@@ -1,1 +1,3633 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"襄平"},"geometry":{"type":"Polygon","coordinates":[[[121.17919921875001,38.71980474264237],[121.7120361328125,38.89103282648846],[122.12951660156249,39.17691709496078],[122.75024414062499,39.57182223734374],[123.837890625,39.85915479295669],[124.1290283203125,39.829631721333726],[124.29931640625,39.97291055131899],[124.65637207031251,40.32141999593439],[125.63415527343749,40.78470081841747],[126.265869140625,41.17451935556443],[125.79345703124999,41.68932225997044],[125.7659912109375,42.61374895431491],[124.49707031249999,43.229195113965005],[123.651123046875,43.644025847699496],[122.36572265625,43.644025847699496],[121.30004882812499,43.24520272203356],[121.387939453125,40.85537053192494],[121.68182373046875,40.87406461663041],[121.80816650390625,40.93841495689795],[121.88232421875,40.805493843894155],[121.95922851562501,40.7909394098518],[121.9482421875,40.693134153308065],[122.08831787109375,40.65980593837852],[122.14599609375001,40.693134153308065],[122.13775634765625,40.59935608796518],[122.25311279296874,40.48455955508278],[122.13226318359375,40.34026396683983],[122.00592041015626,40.18097176388719],[121.91253662109376,40.07807142745009],[121.70654296874999,39.92448212528485],[121.4483642578125,39.7642140375156],[121.5142822265625,39.61838363831915],[121.2286376953125,39.58452390500424],[121.25885009765625,39.37252570201878],[121.40167236328125,39.37040245787161],[121.56097412109375,39.32367475355144],[121.63787841796875,39.196076813671695],[121.6241455078125,39.09383130692365],[121.36596679687499,39.04051963289309],[121.08581542968751,38.92522904714054],[121.17919921875001,38.71980474264237]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"北平"},"geometry":{"type":"Polygon","coordinates":[[[121.30004882812499,43.247203377359774],[118.94485473632811,42.285437007491545],[117.95196533203126,40.94256444133327],[119.56970214843749,39.905522539728544],[119.77569580078126,39.9634381223102],[120.43487548828125,40.19356109815612],[120.55572509765626,40.34654412118006],[120.81939697265624,40.67334753512089],[121.02745056152344,40.712654662428214],[121.08924865722656,40.873805012701666],[121.387939453125,40.85563020812578],[121.30004882812499,43.247203377359774]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"蓟"},"geometry":{"type":"Polygon","coordinates":[[[119.57244873046874,39.905522539728544],[117.95059204101561,40.94360177170972],[114.884033203125,40.82731951134558],[116.38229370117188,39.90973623453719],[117.05932617187499,39.35659979720227],[117.20901489257812,39.08530414503412],[117.82974243164062,38.966883415149596],[117.78579711914062,39.142842478062505],[118.03436279296875,39.21203925595743],[118.18542480468751,39.08423817730926],[118.49853515625,38.91668153637508],[118.59054565429689,38.97222194853654],[118.49853515625,39.07570985562645],[118.60702514648439,39.15988184949157],[118.89816284179686,39.11940660636222],[118.99017333984375,39.180110744109754],[119.21264648437499,39.34916646551957],[119.3115234375,39.42770738465604],[119.25933837890624,39.49238408966355],[119.34173583984375,39.72620102617506],[119.57244873046874,39.905522539728544]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"南皮"},"geometry":{"type":"Polygon","coordinates":[[[117.82218933105473,38.97595868249733],[117.20214843750004,39.093564848720135],[117.05306053161624,39.36466274039423],[116.76338195800786,39.60198489728469],[116.08703613281253,38.725429692594076],[115.86250305175783,38.44068226417387],[115.7109260559082,38.248022080590324],[115.69221496582031,38.11727165830543],[115.67504882812501,37.99453932469732],[115.63796997070312,37.74248523826606],[116.14677429199222,37.8764793939214],[116.78947448730472,37.84178360198902],[117.40470886230473,37.86347038587407],[117.56401062011722,38.07566305333638],[117.72331237792972,38.11024849111732],[117.86064147949222,38.27430571587221],[117.58049011230472,38.749263851188054],[117.82218933105473,38.97595868249733]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"中山"},"geometry":{"type":"Polygon","coordinates":[[[115.63694000244143,37.74207800321482],[115.71126937866217,38.24829170459894],[116.77007675170904,39.59391634934581],[116.38452529907231,39.91013125513755],[114.88317489624029,40.826670041586],[114.14983749389656,40.68311140321177],[113.73785018920903,40.36368073369718],[113.27642440795906,40.114183032973855],[113.55657577514654,40.04903694133437],[113.59502792358404,39.680108547038095],[113.8998985290528,39.44931714863061],[113.74334335327154,39.31344890370148],[114.14983749389656,38.85294343982955],[114.03448104858403,38.10687172804135],[114.47668075561529,38.037681293718286],[114.83579635620123,38.0268643769142],[115.19765853881842,37.91698231386671],[115.63694000244143,37.74207800321482]]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"北海"},"geometry":{"type":"Point","coordinates":[119.15771484375,36.705861603381145]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"平原"},"geometry":{"type":"Point","coordinates":[116.444091796875,37.16907157713011]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"钜鹿"},"geometry":{"type":"Point","coordinates":[115.03509521484374,37.20626914065441]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"晋阳"},"geometry":{"type":"Point","coordinates":[112.55767822265625,37.87268533717655]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"襄平"},"geometry":{"type":"Point","coordinates":[123.46435546875,41.7200805552871]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"北平"},"geometry":{"type":"Point","coordinates":[119.42138671875,41.24890252240322]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"蓟"},"geometry":{"type":"Point","coordinates":[117.39852905273438,40.04391192408113]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"中山"},"geometry":{"type":"Point","coordinates":[115.00488281250001,38.51808630316305]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"邺"},"geometry":{"type":"Point","coordinates":[114.4720458984375,36.575835338491764]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"上党"},"geometry":{"type":"Point","coordinates":[113.08227539062499,36.18665862660454]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"南皮"},"geometry":{"type":"Point","coordinates":[116.67755126953125,38.052416771864834]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"河内"},"geometry":{"type":"Point","coordinates":[113.40362548828125,35.108674964507586]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"濮阳"},"geometry":{"type":"Point","coordinates":[115.0103759765625,35.782170703266075]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"济北"},"geometry":{"type":"Point","coordinates":[115.51025390625,35.24113278166642]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"小沛"},"geometry":{"type":"Point","coordinates":[116.93847656250001,34.72581233927868]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"琅琊"},"geometry":{"type":"Point","coordinates":[118.3172607421875,35.12440157992044]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"广陵"},"geometry":{"type":"Point","coordinates":[119.11376953125,33.55512901742288]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"寿春"},"geometry":{"type":"Point","coordinates":[116.78329467773438,32.56417577360889]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"汝南","fill-opacity":""},"geometry":{"type":"Point","coordinates":[114.26742553710936,33.276583535317876]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"许昌"},"geometry":{"type":"Point","coordinates":[113.83209228515625,34.043556504127444]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"曹县"},"geometry":{"type":"Point","coordinates":[115.53746223449706,34.825147883795836]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"陈留"},"geometry":{"type":"Point","coordinates":[114.52835083007812,34.66964091000385]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"洛阳"},"geometry":{"type":"Point","coordinates":[112.41622924804688,34.65806316573296]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"弘农"},"geometry":{"type":"Point","coordinates":[110.87925910949707,34.54523681597365]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"宛"},"geometry":{"type":"Point","coordinates":[112.53433227539062,32.99369109062016]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"新野","fill-opacity":""},"geometry":{"type":"Point","coordinates":[112.35855102539062,32.520183997176844]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"长安"},"geometry":{"type":"Point","coordinates":[108.93905639648438,34.34343606848294]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"安定"},"geometry":{"type":"Point","coordinates":[107.4078369140625,35.71641301732958]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"武威"},"geometry":{"type":"Point","coordinates":[102.6287841796875,37.931200459333716]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"金城"},"geometry":{"type":"Point","coordinates":[103.82080078125,36.055760619006755]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"天水"},"geometry":{"type":"Point","coordinates":[105.7049560546875,34.59704151614417]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"武都"},"geometry":{"type":"Point","coordinates":[105.7272720336914,33.73804486328907]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"汉中"},"geometry":{"type":"Point","coordinates":[107.0013427734375,33.08233672856376]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"上庸"},"geometry":{"type":"Point","coordinates":[110.225830078125,32.22674287041067]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"襄阳"},"geometry":{"type":"Point","coordinates":[112.10861206054688,31.995265407619225]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"江夏"},"geometry":{"type":"Point","coordinates":[113.74935150146484,31.024988336871534]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"庐江","fill-opacity":""},"geometry":{"type":"Point","coordinates":[116.83135986328125,30.74065539551507]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"建业"},"geometry":{"type":"Point","coordinates":[118.72701644897461,32.005455764794334]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":" 吴"},"geometry":{"type":"Point","coordinates":[120.62507629394531,31.26607960341774]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"会稽"},"geometry":{"type":"Point","coordinates":[120.574951171875,29.98824461550903]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"豫章"},"geometry":{"type":"Point","coordinates":[115.8563232421875,28.685768802287086]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"江陵","fill-opacity":""},"geometry":{"type":"Point","coordinates":[112.225341796875,30.334953881988564]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"长沙"},"geometry":{"type":"Point","coordinates":[112.939453125,28.304380682962783]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"武陵"},"geometry":{"type":"Point","coordinates":[111.67688369750977,29.054969241647125]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"零陵"},"geometry":{"type":"Point","coordinates":[111.6265869140625,26.219519089083956]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"桂阳"},"geometry":{"type":"Point","coordinates":[112.72796630859375,25.750424835909385]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"建安"},"geometry":{"type":"Point","coordinates":[118.28704833984375,27.017537193890004]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"南海"},"geometry":{"type":"Point","coordinates":[113.3843994140625,22.935630216774506]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"合浦","fill-opacity":""},"geometry":{"type":"Point","coordinates":[109.20135498046875,21.6650860721849]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"交趾"},"geometry":{"type":"Point","coordinates":[105.875244140625,21.053744493156348]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"建宁"},"geometry":{"type":"Point","coordinates":[103.809814453125,25.502784548755354]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"永昌"},"geometry":{"type":"Point","coordinates":[99.1845703125,25.025884063244828]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"越巂"},"geometry":{"type":"Point","coordinates":[102.26074218749999,27.88278388425912]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"江州"},"geometry":{"type":"Point","coordinates":[106.534423828125,29.592565403314087]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"成都"},"geometry":{"type":"Point","coordinates":[104.073486328125,30.685163937659564]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"梓潼"},"geometry":{"type":"Point","coordinates":[105.16113281249999,31.644028945047822]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"牂牁","fill-opacity":""},"geometry":{"type":"Point","coordinates":[107.5177001953125,26.25893609446839]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"永安"},"geometry":{"type":"Point","coordinates":[109.46846008300781,31.02234042904364]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"谯"},"geometry":{"type":"Point","coordinates":[115.79589843749999,33.87041555094183]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"甘陵"},"geometry":{"type":"Point","coordinates":[115.7135009765625,36.8510544475565]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"下邳"},"geometry":{"type":"Point","coordinates":[118.02200317382812,33.93424531117312]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"襄平"},"geometry":{"type":"Polygon","coordinates":[[[121.17919921875001,38.71980474264237],[121.7120361328125,38.89103282648846],[122.12951660156249,39.17691709496078],[122.75024414062499,39.57182223734374],[123.837890625,39.85915479295669],[124.1290283203125,39.829631721333726],[124.29931640625,39.97291055131899],[124.65637207031251,40.32141999593439],[125.63415527343749,40.78470081841747],[126.265869140625,41.17451935556443],[125.79345703124999,41.68932225997044],[125.7659912109375,42.61374895431491],[124.49707031249999,43.229195113965005],[123.651123046875,43.644025847699496],[122.36572265625,43.644025847699496],[121.30004882812499,43.24520272203356],[121.387939453125,40.85537053192494],[121.68182373046875,40.87406461663041],[121.80816650390625,40.93841495689795],[121.88232421875,40.805493843894155],[121.95922851562501,40.7909394098518],[121.9482421875,40.693134153308065],[122.08831787109375,40.65980593837852],[122.14599609375001,40.693134153308065],[122.13775634765625,40.59935608796518],[122.25311279296874,40.48455955508278],[122.13226318359375,40.34026396683983],[122.00592041015626,40.18097176388719],[121.91253662109376,40.07807142745009],[121.70654296874999,39.92448212528485],[121.4483642578125,39.7642140375156],[121.5142822265625,39.61838363831915],[121.2286376953125,39.58452390500424],[121.25885009765625,39.37252570201878],[121.40167236328125,39.37040245787161],[121.56097412109375,39.32367475355144],[121.63787841796875,39.196076813671695],[121.6241455078125,39.09383130692365],[121.36596679687499,39.04051963289309],[121.08581542968751,38.92522904714054],[121.17919921875001,38.71980474264237]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"北平"},"geometry":{"type":"Polygon","coordinates":[[[121.30004882812499,43.247203377359774],[118.94485473632811,42.285437007491545],[117.95196533203126,40.94256444133327],[119.56970214843749,39.905522539728544],[119.77569580078126,39.9634381223102],[120.43487548828125,40.19356109815612],[120.55572509765626,40.34654412118006],[120.81939697265624,40.67334753512089],[121.02745056152344,40.712654662428214],[121.08924865722656,40.873805012701666],[121.387939453125,40.85563020812578],[121.30004882812499,43.247203377359774]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"蓟"},"geometry":{"type":"Polygon","coordinates":[[[119.57244873046874,39.905522539728544],[117.95059204101561,40.94360177170972],[114.884033203125,40.82731951134558],[116.38229370117188,39.90973623453719],[117.05932617187499,39.35659979720227],[117.20901489257812,39.08530414503412],[117.82974243164062,38.966883415149596],[117.78579711914062,39.142842478062505],[118.03436279296875,39.21203925595743],[118.18542480468751,39.08423817730926],[118.49853515625,38.91668153637508],[118.59054565429689,38.97222194853654],[118.49853515625,39.07570985562645],[118.60702514648439,39.15988184949157],[118.89816284179686,39.11940660636222],[118.99017333984375,39.180110744109754],[119.21264648437499,39.34916646551957],[119.3115234375,39.42770738465604],[119.25933837890624,39.49238408966355],[119.34173583984375,39.72620102617506],[119.57244873046874,39.905522539728544]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"南皮"},"geometry":{"type":"Polygon","coordinates":[[[117.82218933105473,38.97595868249733],[117.20214843750004,39.093564848720135],[117.05306053161624,39.36466274039423],[116.76338195800786,39.60198489728469],[116.08703613281253,38.725429692594076],[115.86250305175783,38.44068226417387],[115.7109260559082,38.248022080590324],[115.69221496582031,38.11727165830543],[115.67504882812501,37.99453932469732],[115.63796997070312,37.74248523826606],[116.14677429199222,37.8764793939214],[116.78947448730472,37.84178360198902],[117.40470886230473,37.86347038587407],[117.56401062011722,38.07566305333638],[117.72331237792972,38.11024849111732],[117.86064147949222,38.27430571587221],[117.58049011230472,38.749263851188054],[117.82218933105473,38.97595868249733]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"中山"},"geometry":{"type":"Polygon","coordinates":[[[115.63694000244143,37.74207800321482],[115.71126937866217,38.24829170459894],[116.77007675170904,39.59391634934581],[116.38452529907231,39.91013125513755],[114.88317489624029,40.826670041586],[114.14983749389656,40.68311140321177],[113.73785018920903,40.36368073369718],[113.27642440795906,40.114183032973855],[113.55657577514654,40.04903694133437],[113.59502792358404,39.680108547038095],[113.8998985290528,39.44931714863061],[113.74334335327154,39.31344890370148],[114.14983749389656,38.85294343982955],[114.03448104858403,38.10687172804135],[114.47668075561529,38.037681293718286],[114.83579635620123,38.0268643769142],[115.19765853881842,37.91698231386671],[115.63694000244143,37.74207800321482]]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"北海"},"geometry":{"type":"Point","coordinates":[119.15771484375,36.705861603381145]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"平原"},"geometry":{"type":"Point","coordinates":[116.444091796875,37.16907157713011]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"钜鹿"},"geometry":{"type":"Point","coordinates":[115.03509521484374,37.20626914065441]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"晋阳"},"geometry":{"type":"Point","coordinates":[112.55767822265625,37.87268533717655]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"襄平"},"geometry":{"type":"Point","coordinates":[123.46435546875,41.7200805552871]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"北平"},"geometry":{"type":"Point","coordinates":[119.42138671875,41.24890252240322]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"蓟"},"geometry":{"type":"Point","coordinates":[117.39852905273438,40.04391192408113]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"中山"},"geometry":{"type":"Point","coordinates":[115.00488281250001,38.51808630316305]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"邺"},"geometry":{"type":"Point","coordinates":[114.4720458984375,36.575835338491764]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"上党"},"geometry":{"type":"Point","coordinates":[113.08227539062499,36.18665862660454]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"南皮"},"geometry":{"type":"Point","coordinates":[116.67755126953125,38.052416771864834]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"河内"},"geometry":{"type":"Point","coordinates":[113.40362548828125,35.108674964507586]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"濮阳"},"geometry":{"type":"Point","coordinates":[115.0103759765625,35.782170703266075]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"济北"},"geometry":{"type":"Point","coordinates":[115.51025390625,35.24113278166642]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"小沛"},"geometry":{"type":"Point","coordinates":[116.93847656250001,34.72581233927868]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"琅琊"},"geometry":{"type":"Point","coordinates":[118.3172607421875,35.12440157992044]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"广陵"},"geometry":{"type":"Point","coordinates":[119.11376953125,33.55512901742288]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"寿春"},"geometry":{"type":"Point","coordinates":[116.78329467773438,32.56417577360889]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"汝南","fill-opacity":""},"geometry":{"type":"Point","coordinates":[114.26742553710936,33.276583535317876]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"许昌"},"geometry":{"type":"Point","coordinates":[113.83209228515625,34.043556504127444]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"曹县"},"geometry":{"type":"Point","coordinates":[115.53746223449706,34.825147883795836]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"陈留"},"geometry":{"type":"Point","coordinates":[114.52835083007812,34.66964091000385]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"洛阳"},"geometry":{"type":"Point","coordinates":[112.41622924804688,34.65806316573296]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"弘农"},"geometry":{"type":"Point","coordinates":[110.87925910949707,34.54523681597365]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"宛"},"geometry":{"type":"Point","coordinates":[112.53433227539062,32.99369109062016]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"新野","fill-opacity":""},"geometry":{"type":"Point","coordinates":[112.35855102539062,32.520183997176844]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"长安"},"geometry":{"type":"Point","coordinates":[108.93905639648438,34.34343606848294]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"安定"},"geometry":{"type":"Point","coordinates":[107.4078369140625,35.71641301732958]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"武威"},"geometry":{"type":"Point","coordinates":[102.6287841796875,37.931200459333716]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"金城"},"geometry":{"type":"Point","coordinates":[103.82080078125,36.055760619006755]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"天水"},"geometry":{"type":"Point","coordinates":[105.7049560546875,34.59704151614417]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"武都"},"geometry":{"type":"Point","coordinates":[105.7272720336914,33.73804486328907]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"汉中"},"geometry":{"type":"Point","coordinates":[107.0013427734375,33.08233672856376]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"上庸"},"geometry":{"type":"Point","coordinates":[110.225830078125,32.22674287041067]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"襄阳"},"geometry":{"type":"Point","coordinates":[112.10861206054688,31.995265407619225]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"江夏"},"geometry":{"type":"Point","coordinates":[113.74935150146484,31.024988336871534]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"庐江","fill-opacity":""},"geometry":{"type":"Point","coordinates":[116.83135986328125,30.74065539551507]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"建业"},"geometry":{"type":"Point","coordinates":[118.72701644897461,32.005455764794334]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":" 吴"},"geometry":{"type":"Point","coordinates":[120.62507629394531,31.26607960341774]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"会稽"},"geometry":{"type":"Point","coordinates":[120.574951171875,29.98824461550903]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"豫章"},"geometry":{"type":"Point","coordinates":[115.8563232421875,28.685768802287086]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"江陵","fill-opacity":""},"geometry":{"type":"Point","coordinates":[112.225341796875,30.334953881988564]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"长沙"},"geometry":{"type":"Point","coordinates":[112.939453125,28.304380682962783]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"武陵"},"geometry":{"type":"Point","coordinates":[111.67688369750977,29.054969241647125]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"零陵"},"geometry":{"type":"Point","coordinates":[111.6265869140625,26.219519089083956]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"桂阳"},"geometry":{"type":"Point","coordinates":[112.72796630859375,25.750424835909385]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"建安"},"geometry":{"type":"Point","coordinates":[118.28704833984375,27.017537193890004]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"南海"},"geometry":{"type":"Point","coordinates":[113.3843994140625,22.935630216774506]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"合浦","fill-opacity":""},"geometry":{"type":"Point","coordinates":[109.20135498046875,21.6650860721849]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"交趾"},"geometry":{"type":"Point","coordinates":[105.875244140625,21.053744493156348]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"建宁"},"geometry":{"type":"Point","coordinates":[103.809814453125,25.502784548755354]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"永昌"},"geometry":{"type":"Point","coordinates":[99.1845703125,25.025884063244828]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"越巂"},"geometry":{"type":"Point","coordinates":[102.26074218749999,27.88278388425912]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"江州"},"geometry":{"type":"Point","coordinates":[106.534423828125,29.592565403314087]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"成都"},"geometry":{"type":"Point","coordinates":[104.073486328125,30.685163937659564]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"梓潼"},"geometry":{"type":"Point","coordinates":[105.16113281249999,31.644028945047822]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"牂牁","fill-opacity":""},"geometry":{"type":"Point","coordinates":[107.5177001953125,26.25893609446839]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"永安"},"geometry":{"type":"Point","coordinates":[109.46846008300781,31.02234042904364]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"谯"},"geometry":{"type":"Point","coordinates":[115.79589843749999,33.87041555094183]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"甘陵"},"geometry":{"type":"Point","coordinates":[115.7135009765625,36.8510544475565]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","city":"下邳"},"geometry":{"type":"Point","coordinates":[118.02200317382812,33.93424531117312]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"平原"},"geometry":{"type":"Polygon","coordinates":[[[117.86064147949219,38.27423833409579],[117.72468566894531,38.11078875872392],[117.56298065185547,38.0756630533364],[117.40814208984375,37.861844098370945],[116.78981781005861,37.842054726158636],[116.50588989257812,37.85750715625203],[116.31912231445312,37.514083168101116],[116.30126953125,37.45741810262938],[116.2408447265625,36.9367208722872],[116.3177490234375,36.89719446989036],[116.27929687499999,36.25756282630298],[116.5704345703125,36.42570252039198],[116.83959960937499,36.728978858916285],[117.00027465820314,36.728978858916285],[117.13348388671875,36.82137828938333],[117.23648071289062,37.03983207971425],[117.57431030273436,37.15265506325517],[117.65258789062499,37.274052809979054],[117.7569580078125,37.24454160816698],[117.82974243164062,37.28388730761434],[117.88742065429686,37.26203112351243],[118.04122924804686,37.33304051804567],[118.14422607421875,37.35924242260126],[118.22937011718749,37.39416407012379],[118.24722290039061,37.469408527523605],[118.29803466796875,37.50645768213012],[118.33236694335938,37.59682400108367],[118.5150146484375,37.60226425565784],[118.5809326171875,37.6327223292973],[118.66470336914061,37.727280276860036],[118.80752563476561,37.75225820732335],[118.91601562499999,37.78808138412046],[119.00665283203124,37.794592824285104],[119.10037994384766,37.76175846764949],[119.2071533203125,37.76854362092148],[119.26345825195312,37.859675659210005],[119.16320800781249,37.808698976006795],[119.09866333007812,37.84341033205656],[119.091796875,37.91820111976663],[119.00253295898438,37.951778046847956],[118.98330688476562,38.028622234587964],[118.91464233398436,38.1237539824224],[118.77731323242186,38.148597559924355],[118.6578369140625,38.12591462924157],[118.53561401367188,38.052416771864834],[118.49853515625,38.09241741843045],[118.15555572509766,38.13914719566012],[118.1634521484375,38.17802085110361],[118.11573028564455,38.189894778512596],[118.07453155517578,38.18422791820727],[118.06938171386719,38.190974130491774],[118.04363250732422,38.18098951438852],[117.95402526855469,38.22307753495298],[117.86064147949219,38.27423833409579]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"甘陵"},"geometry":{"type":"Polygon","coordinates":[[[116.28067016601561,36.25867019438799],[116.31792068481445,36.89691990936389],[116.24032974243164,36.93685808104818],[116.30101203918456,37.45707743746945],[116.31903648376465,37.51367467967332],[116.50528907775879,37.857168321902016],[116.14754676818848,37.87681813948559],[115.63796997070312,37.743571187449064],[115.48965454101562,37.19095471582605],[115.32073974609375,36.95647639022989],[115.12435913085936,36.60670888641815],[115.0872802734375,36.40359962073253],[115.8343505859375,36.36822190085111],[116.28067016601561,36.25867019438799]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"钜鹿"},"geometry":{"type":"Polygon","coordinates":[[[115.31867980957031,36.95318415967938],[115.48896789550783,37.19368966240492],[115.6365966796875,37.74139927315054],[115.19851684570312,37.916576040745376],[114.83665466308594,38.02754048101098],[114.47067260742188,38.037275688165614],[114.027099609375,38.11078875872392],[113.56842041015625,38.017803980061124],[113.77166748046875,37.5249753680482],[113.3843994140625,37.10995544464346],[113.76068115234374,37.10557463437788],[113.84033203125,37.158127630680866],[114.21936035156249,37.06613594074314],[114.41162109375,36.96964388918142],[114.576416015625,37.01351910258053],[115.31867980957031,36.95318415967938]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"晋阳"},"geometry":{"type":"Polygon","coordinates":[[[113.85406494140624,40.455307212131494],[113.7744140625,40.52006312552015],[113.30474853515625,40.32141999593439],[113.23333740234375,40.41767833585549],[112.87902832031249,40.329795743702064],[112.7197265625,40.17887331434696],[112.423095703125,40.32141999593439],[111.81884765624999,39.639537564366684],[111.11572265625,39.38526381099774],[110.4345703125,38.09998264736481],[110.61035156249999,37.61423141542417],[110.390625,36.76529191711624],[111.807861328125,36.527294814546245],[112.1044921875,37.15156050223665],[112.928466796875,37.10776507118514],[113.38165283203125,37.112145754751516],[113.77166748046875,37.52715361723378],[113.56910705566406,38.01834493072087],[114.03533935546875,38.11078875872392],[114.14794921875,38.85468129471517],[113.73596191406249,39.317300373271024],[113.89869689941406,39.449979918847724],[113.5931396484375,39.680240661158805],[113.55674743652342,40.04969396696316],[113.27659606933592,40.11536454348482],[113.73252868652344,40.362765146987606],[113.85406494140624,40.455307212131494]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"上党"},"geometry":{"type":"Polygon","coordinates":[[[113.38714599609375,37.10776507118514],[112.93018341064453,37.10776507118514],[112.1044921875,37.15156050223665],[111.807861328125,36.52839834681223],[110.39045333862305,36.765704466752624],[110.60760498046875,35.64390523787731],[110.22308349609375,34.91746688928252],[110.2423095703125,34.621907605630376],[110.46478271484375,34.6060845921693],[110.7366943359375,34.655803905058974],[110.81359863281249,34.617387052407175],[110.9124755859375,34.732584206123626],[110.96466064453125,34.710009159224946],[111.1431884765625,34.813803317113155],[111.5606689453125,34.84987503195418],[111.6595458984375,34.985003130171066],[111.87652587890625,35.08845057036537],[112.6043701171875,34.858890491257796],[113.04931640625,34.85212898939811],[113.115234375,35.33305256126513],[113.1646728515625,35.42262976362149],[113.27178955078125,35.429344044107154],[113.3734130859375,35.48974737539361],[113.56842041015625,35.628279555648845],[113.63433837890625,35.84230806912384],[113.7469482421875,36.2354121683998],[113.70849609375,36.41244153535644],[113.40911865234374,36.54053616262899],[113.4503173828125,36.68824378744832],[113.3953857421875,36.74768773190056],[113.54644775390625,36.94550173495345],[113.38714599609375,37.10776507118514]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"邺"},"geometry":{"type":"Polygon","coordinates":[[[113.74420166015624,36.24427318493909],[113.829345703125,36.24205802497115],[113.9337158203125,36.060201412392914],[114.10125732421875,36.10459556076901],[114.1754150390625,36.10459556076901],[114.35394287109375,36.02466804934357],[114.4940185546875,36.03133177633187],[114.58465576171875,36.0513195750255],[114.9609375,36.01356058518153],[115.09277343749999,36.04465753921525],[115.15594482421874,36.19109202182454],[115.08453369140625,36.31512514748051],[115.0872802734375,36.410231151040215],[115.12435913085936,36.610567211413574],[115.31867980957031,36.954281585675965],[114.57435607910156,37.014067382569166],[114.41093444824219,36.97019248554982],[114.21730041503906,37.068327517596586],[113.83964538574219,37.15867486563679],[113.76068115234374,37.106669860700045],[113.38371276855469,37.110503028109626],[113.54507446289062,36.94495296068268],[113.39607238769531,36.74768773190056],[113.44894409179688,36.68824378744832],[113.40843200683592,36.54053616262899],[113.70712280273438,36.41354670392873],[113.74420166015624,36.24427318493909]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"长安"},"geometry":{"type":"Polygon","coordinates":[[[110.39749145507817,36.77409249464193],[110.60623168945312,37.61423141542417],[110.43045043945315,38.09998264736481],[111.11709594726564,39.38526381099774],[111.80923461914064,39.64376757341845],[111.14456176757812,39.57182223734377],[110.60623168945312,39.26628442213066],[110.15579223632817,39.44043541908485],[109.51309204101564,38.80975079723838],[108.95828247070314,38.33734763569314],[109.05166625976564,38.03078569382294],[108.91983032226564,37.91820111976663],[108.79348754882815,38.052416771864806],[108.75503540039064,37.66208079655372],[107.698974609375,37.52279705525959],[106.907958984375,38.108627664321276],[106.83654785156249,37.14718209972376],[108.28125,36.54494944148322],[108.69873046875,36.10237644873644],[107.90771484375,35.97800618085566],[107.60147094726564,35.902399875143615],[107.62893676757815,35.60818490437744],[107.73330688476564,35.53669637839501],[107.76077270507812,35.348735749472546],[107.68936157226564,35.25907654252572],[107.89810180664064,35.19625600786366],[107.95852661132815,35.083955579276406],[108.11782836914064,35.038992046780784],[107.77175903320315,34.67839374011646],[107.74978637695314,34.474863669008975],[107.70584106445312,34.30714385628802],[107.92007446289065,34.20271636159618],[108.21121215820314,34.098159345215564],[107.84866333007814,33.28921188443142],[108.04641723632814,33.2983949906164],[108.17276000976564,33.03169299978315],[108.75503540039064,32.722598604044066],[109.07913208007815,32.67174887226335],[110.02395629882814,32.7503226078097],[110.23818969726564,34.63320791137954],[110.21621704101562,34.91746688928252],[110.60623168945312,35.661759419295045],[110.39749145507817,36.77409249464193]]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"city":"北海"},"geometry":{"type":"Polygon","coordinates":[[[119.26483154296875,37.85994671759408],[119.20646667480469,37.76772943539666],[119.09317016601562,37.76202988573211],[119.00527954101562,37.794592824285104],[118.91738891601561,37.78699608830537],[118.82263183593749,37.75225820732335],[118.65921020507812,37.72293542866175],[118.58230590820312,37.6359849542696],[118.51089477539061,37.60117623656667],[118.33236694335938,37.59573590243413],[118.30352783203125,37.51190453731693],[118.24584960937499,37.46613860234406],[118.23348999023438,37.39634613318923],[118.03985595703124,37.33304051804567],[117.88330078125,37.26640286793118],[117.828369140625,37.28497995025375],[117.75421142578125,37.2456348218214],[117.65121459960936,37.276238364942955],[117.57568359374999,37.15156050223665],[117.23236083984374,37.03763967977139],[117.13623046874999,36.82137828938333],[117.00164794921875,36.730079507078415],[116.83685302734375,36.72677751526221],[116.5704345703125,36.42570252039198],[116.27929687499999,36.26088488346501],[117.74597167968749,36.24870331653198],[118.23486328125,36.1822249804225],[118.71826171875,36.02688935430189],[119.39666748046874,36.0824016199585],[120.0857162475586,36.05714839385991],[120.14751434326172,36.11735423846348],[120.24604797363281,36.161438918967185],[120.34973144531249,36.16559657231973],[120.2947998046875,36.05020927487619],[120.41839599609375,36.05465038150424],[120.54473876953125,36.11236195924294],[120.70816040039061,36.134547437460064],[120.66696166992188,36.23319675732526],[120.67932128906249,36.27306455094137],[120.64224243164062,36.26752857393819],[120.65872192382812,36.29741818650811],[120.65322875976562,36.33172177145511],[120.73287963867188,36.33725319397006],[120.68893432617188,36.37264499608118],[120.74661254882812,36.43454191900892],[120.74661254882812,36.46215855158897],[120.8221435546875,36.46436745746105],[120.84686279296874,36.38591277287651],[120.87432861328125,36.373750730596306],[120.90179443359375,36.440066032001525],[120.95123291015625,36.46326301239126],[120.97457885742186,36.52619126653696],[120.99655151367188,36.57473248336113],[121.13388061523438,36.66070786821854],[121.24649047851562,36.691547435472636],[121.39343261718749,36.70916449436405],[121.39068603515625,36.752089156946326],[121.46347045898438,36.77409249464195],[121.50604248046874,36.75979104322286],[121.55548095703125,36.73228075607201],[121.57608032226562,36.76309161490538],[121.63787841796875,36.73888412439431],[121.62277221679688,36.804886560237236],[121.74362182617188,36.84226271217676],[121.75186157226561,36.87742358748459],[121.9647216796875,36.948794297566366],[121.9647216796875,36.961963124877656],[122.01553344726561,36.96964388918142],[122.03887939453125,36.902685472989425],[122.07870483398436,36.91915611148194],[122.10067749023438,36.9378185354581],[122.12539672851561,36.86533886128867],[122.18307495117188,36.84555973141203],[122.25860595703125,36.84226271217676],[122.33963012695312,36.83456911447562],[122.37396240234375,36.84555973141203],[122.3712158203125,36.86424015502008],[122.40692138671874,36.86204269508728],[122.43438720703125,36.88181755936464],[122.40692138671874,36.91915611148194],[122.50305175781249,36.931232319282884],[122.49343872070312,36.89389967838269],[122.53875732421875,36.923547681089296],[122.52090454101564,36.934525498514894],[122.54699707031249,36.97732387852746],[122.52777099609375,37.00255267215955],[122.57171630859375,37.04202441635081],[122.45223999023436,37.035447216523636],[122.40142822265625,36.99048777141413],[122.40692138671874,37.03215840295834],[122.4591064453125,37.06613594074314],[122.48931884765626,37.15156050223665],[122.58544921875,37.14937133266766],[122.56072998046875,37.170165884620566],[122.62390136718749,37.19751842118354],[122.5579833984375,37.290442925478196],[122.60055541992188,37.3319485736073],[122.55386352539062,37.35487607348372],[122.68157958984375,37.37888785004527],[122.70767211914064,37.39416407012379],[122.68157958984375,37.41598184194613],[122.46871948242186,37.42470717168675],[122.2613525390625,37.421435292172944],[122.2943115234375,37.446516047833484],[122.24212646484375,37.46613860234406],[122.16659545898438,37.42688834526727],[122.13912963867188,37.47921744485059],[122.16522216796875,37.520618678869305],[122.11990356445312,37.558731082241074],[121.89193725585936,37.46504859550001],[121.640625,37.48139702942734],[121.46072387695314,37.46504859550001],[121.387939453125,37.62728430268013],[121.168212890625,37.579412513438385],[121.14212036132812,37.70663997801684],[120.92239379882812,37.814123701604466],[120.71640014648438,37.83690319650765],[120.45135498046875,37.74574303801687],[120.2178955078125,37.684907136008846],[120.23712158203125,37.55002139332707],[119.83612060546874,37.36579146999664],[119.89929199218749,37.275145595392544],[119.74411010742186,37.122001366241],[119.70428466796875,37.1504659253741],[119.28268432617188,37.13514018576747],[119.28268432617188,37.196424509917605],[119.17556762695312,37.2587521486561],[119.06845092773438,37.224861050759344],[118.98468017578125,37.31338308990806],[118.91601562499999,37.37888785004527],[118.927001953125,37.48139702942734],[118.89953613281249,37.5238862196042],[118.95172119140625,37.606616172899535],[119.04647827148438,37.727280276860036],[119.18243408203124,37.71859032558816],[119.25796508789061,37.65338320128765],[119.2778778076172,37.70120736474139],[119.26483154296875,37.85994671759408]]]}}]}
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "交趾"
+      },
+      "geometry": {
+        "coordinates": [
+          105.875244,
+          21.053744
+        ],
+        "type": "Point"
+      },
+      "id": "00c6f88b27d0e4f8395381d14c999ee1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "江陵",
+        "fill-opacity": ""
+      },
+      "geometry": {
+        "coordinates": [
+          112.225341,
+          30.334953
+        ],
+        "type": "Point"
+      },
+      "id": "01edd6c0faca0dcb758d6c2d35574dd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "谯"
+      },
+      "geometry": {
+        "coordinates": [
+          115.795898,
+          33.870415
+        ],
+        "type": "Point"
+      },
+      "id": "02d51eae7beb00a81e906cbe59f51687"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              92.778293,
+              39.316015
+            ],
+            [
+              92.921225,
+              40.627922
+            ],
+            [
+              93.763576,
+              40.608546
+            ],
+            [
+              95.165266,
+              40.685168
+            ],
+            [
+              96.181331,
+              40.768259
+            ],
+            [
+              97.535073,
+              41.070706
+            ],
+            [
+              100.55679,
+              42.754611
+            ],
+            [
+              101.537858,
+              42.571678
+            ],
+            [
+              99.838713,
+              40.956448
+            ],
+            [
+              100.298177,
+              40.666656
+            ],
+            [
+              99.506878,
+              39.946432
+            ],
+            [
+              101.702095,
+              38.722411
+            ],
+            [
+              102.442343,
+              39.238319
+            ],
+            [
+              104.024942,
+              39.514556
+            ],
+            [
+              104.203622,
+              38.941138
+            ],
+            [
+              103.386797,
+              38.001887
+            ],
+            [
+              104.2802,
+              37.395986
+            ],
+            [
+              102.621024,
+              36.785147
+            ],
+            [
+              101.931827,
+              37.739938
+            ],
+            [
+              98.792156,
+              39.020509
+            ],
+            [
+              96.954299,
+              39.218546
+            ],
+            [
+              96.571412,
+              38.262903
+            ],
+            [
+              94.866434,
+              38.926348
+            ],
+            [
+              92.778293,
+              39.316015
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "09cad2f5321f987a1fec7b8835886069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "北平"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              117.790707,
+              40.004462
+            ],
+            [
+              118.041355,
+              39.999997
+            ],
+            [
+              118.292002,
+              39.995532
+            ],
+            [
+              119.539413,
+              40.551446
+            ],
+            [
+              119.860009,
+              39.959798
+            ],
+            [
+              119.539413,
+              39.892746
+            ],
+            [
+              119.527755,
+              39.80772
+            ],
+            [
+              119.352884,
+              39.736037
+            ],
+            [
+              119.294594,
+              39.358479
+            ],
+            [
+              118.944853,
+              39.128246
+            ],
+            [
+              118.530992,
+              39.11468
+            ],
+            [
+              118.659231,
+              39.015111
+            ],
+            [
+              118.466873,
+              38.924473
+            ],
+            [
+              118.257028,
+              39.04228
+            ],
+            [
+              118.041355,
+              39.22314
+            ],
+            [
+              117.610644,
+              38.798841
+            ],
+            [
+              117.359223,
+              38.829074
+            ],
+            [
+              116.741162,
+              38.830069
+            ],
+            [
+              116.762545,
+              39.591542
+            ],
+            [
+              117.149004,
+              39.628913
+            ],
+            [
+              117.184466,
+              39.876449
+            ],
+            [
+              117.790707,
+              40.004462
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "0dc3b19385d2cf4d6e9820a27bb490e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "武都"
+      },
+      "geometry": {
+        "coordinates": [
+          105.727272,
+          33.738044
+        ],
+        "type": "Point"
+      },
+      "id": "1018c9505cdcad0a90f176429962b168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "长沙"
+      },
+      "geometry": {
+        "coordinates": [
+          112.939453,
+          28.30438
+        ],
+        "type": "Point"
+      },
+      "id": "125c231b269feddb37d235cba34dc392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "新野",
+        "fill-opacity": ""
+      },
+      "geometry": {
+        "coordinates": [
+          112.358551,
+          32.520183
+        ],
+        "type": "Point"
+      },
+      "id": "137d40af7b5212f2628fd1a025bae5af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "天水"
+      },
+      "geometry": {
+        "coordinates": [
+          105.704956,
+          34.597041
+        ],
+        "type": "Point"
+      },
+      "id": "14bc1df98c2327340c7902df427b6608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "会稽"
+      },
+      "geometry": {
+        "coordinates": [
+          120.574951,
+          29.988244
+        ],
+        "type": "Point"
+      },
+      "id": "15b4df9ec7aaa6de0463147a073ec08d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "河内"
+      },
+      "geometry": {
+        "coordinates": [
+          113.403625,
+          35.108674
+        ],
+        "type": "Point"
+      },
+      "id": "17f065ec147993ce2b108a3c5945c8c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "建业"
+      },
+      "geometry": {
+        "coordinates": [
+          118.727016,
+          32.005455
+        ],
+        "type": "Point"
+      },
+      "id": "19062993bee8c2436c65380db0d1ee52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "city": "上党"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              113.387145,
+              37.107765
+            ],
+            [
+              112.930183,
+              37.107765
+            ],
+            [
+              112.104492,
+              37.15156
+            ],
+            [
+              111.807861,
+              36.528398
+            ],
+            [
+              110.390453,
+              36.765704
+            ],
+            [
+              110.607604,
+              35.643905
+            ],
+            [
+              110.223083,
+              34.917466
+            ],
+            [
+              110.242309,
+              34.621907
+            ],
+            [
+              110.464782,
+              34.606084
+            ],
+            [
+              110.736694,
+              34.655803
+            ],
+            [
+              110.813598,
+              34.617387
+            ],
+            [
+              110.912475,
+              34.732584
+            ],
+            [
+              110.96466,
+              34.710009
+            ],
+            [
+              111.143188,
+              34.813803
+            ],
+            [
+              111.560668,
+              34.849875
+            ],
+            [
+              111.659545,
+              34.985003
+            ],
+            [
+              111.876525,
+              35.08845
+            ],
+            [
+              112.046536,
+              35.037972
+            ],
+            [
+              112.068458,
+              35.263147
+            ],
+            [
+              113.115234,
+              35.333052
+            ],
+            [
+              113.164672,
+              35.422629
+            ],
+            [
+              113.271789,
+              35.429344
+            ],
+            [
+              113.373413,
+              35.489747
+            ],
+            [
+              113.56842,
+              35.628279
+            ],
+            [
+              113.634338,
+              35.842308
+            ],
+            [
+              113.746948,
+              36.235412
+            ],
+            [
+              113.708496,
+              36.412441
+            ],
+            [
+              113.409118,
+              36.540536
+            ],
+            [
+              113.450317,
+              36.688243
+            ],
+            [
+              113.395385,
+              36.747687
+            ],
+            [
+              113.546447,
+              36.945501
+            ],
+            [
+              113.387145,
+              37.107765
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "22715f807eaa84afe7b03c84c48b3ab8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "汝南",
+        "fill-opacity": ""
+      },
+      "geometry": {
+        "coordinates": [
+          114.267425,
+          33.276583
+        ],
+        "type": "Point"
+      },
+      "id": "24bdab6c92ec5661db54ae208bfba9e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "永安"
+      },
+      "geometry": {
+        "coordinates": [
+          109.46846,
+          31.02234
+        ],
+        "type": "Point"
+      },
+      "id": "255b77cffbdaec6b441ef4ff4e4f3b15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "金城"
+      },
+      "geometry": {
+        "coordinates": [
+          103.8208,
+          36.05576
+        ],
+        "type": "Point"
+      },
+      "id": "26cdd58d58a0b9ae6713460611ffc47f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "武威"
+      },
+      "geometry": {
+        "coordinates": [
+          102.628784,
+          37.9312
+        ],
+        "type": "Point"
+      },
+      "id": "2e78ad1458b17cadf91d8eb7a33ccd7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "中山"
+      },
+      "geometry": {
+        "coordinates": [
+          115.004882,
+          38.518086
+        ],
+        "type": "Point"
+      },
+      "id": "2eacbf5666c323ecc26f7744c6c12f81"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              105.267133,
+              35.941142
+            ],
+            [
+              104.174884,
+              34.203592
+            ],
+            [
+              106.481981,
+              33.871101
+            ],
+            [
+              107.111696,
+              34.942343
+            ],
+            [
+              106.537708,
+              35.065589
+            ],
+            [
+              105.267133,
+              35.941142
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "2f54be58594ec06a6662680c1c1877e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "济北"
+      },
+      "geometry": {
+        "coordinates": [
+          115.510253,
+          35.241132
+        ],
+        "type": "Point"
+      },
+      "id": "311005e58a288a9cc2598590a8818fa6"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.257799,
+              34.62982
+            ],
+            [
+              110.543088,
+              34.613796
+            ],
+            [
+              110.824562,
+              34.638177
+            ],
+            [
+              111.180106,
+              34.824858
+            ],
+            [
+              111.427013,
+              34.824858
+            ],
+            [
+              112.192422,
+              33.743652
+            ],
+            [
+              111.036901,
+              33.542212
+            ],
+            [
+              110.622098,
+              33.87905
+            ],
+            [
+              110.508522,
+              34.243143
+            ],
+            [
+              110.257799,
+              34.62982
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "37c79225924a2a992a295813d94622f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "长安"
+      },
+      "geometry": {
+        "coordinates": [
+          108.939056,
+          34.343436
+        ],
+        "type": "Point"
+      },
+      "id": "3acc23409df8b77751875abfcd270780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "蓟"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              113.810747,
+              38.987558
+            ],
+            [
+              114.07443,
+              39.526346
+            ],
+            [
+              114.272192,
+              39.926311
+            ],
+            [
+              114.872803,
+              40.635943
+            ],
+            [
+              116.129227,
+              40.671032
+            ],
+            [
+              116.497734,
+              40.487775
+            ],
+            [
+              117.29178,
+              40.561138
+            ],
+            [
+              117.765575,
+              39.998879
+            ],
+            [
+              117.186492,
+              39.881154
+            ],
+            [
+              117.151396,
+              39.641718
+            ],
+            [
+              116.765341,
+              39.597788
+            ],
+            [
+              116.747793,
+              38.826207
+            ],
+            [
+              115.659818,
+              38.826207
+            ],
+            [
+              115.743171,
+              39.550447
+            ],
+            [
+              115.672979,
+              39.557212
+            ],
+            [
+              115.422921,
+              39.286098
+            ],
+            [
+              114.830677,
+              39.04801
+            ],
+            [
+              114.536748,
+              38.911598
+            ],
+            [
+              114.405139,
+              38.75782
+            ],
+            [
+              113.786573,
+              38.641412
+            ],
+            [
+              113.821669,
+              38.768082
+            ],
+            [
+              113.810747,
+              38.987558
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "3d48ab62ae7967d650ffc8785a8f74a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "濮阳"
+      },
+      "geometry": {
+        "coordinates": [
+          115.010375,
+          35.78217
+        ],
+        "type": "Point"
+      },
+      "id": "3eaf2190d95f86eb992dee9377b029f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "小沛"
+      },
+      "geometry": {
+        "coordinates": [
+          116.938476,
+          34.725812
+        ],
+        "type": "Point"
+      },
+      "id": "3eafccbd733026e4cd95a11f94d56ebf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "琅琊"
+      },
+      "geometry": {
+        "coordinates": [
+          118.31726,
+          35.124401
+        ],
+        "type": "Point"
+      },
+      "id": "4442643ab643d34eb21241dcc54c98ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "南海"
+      },
+      "geometry": {
+        "coordinates": [
+          113.384399,
+          22.93563
+        ],
+        "type": "Point"
+      },
+      "id": "54f757619d95fa7a69d8de844dec3608"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              105.468636,
+              23.194539
+            ],
+            [
+              105.876553,
+              22.9667
+            ],
+            [
+              106.20363,
+              22.98595
+            ],
+            [
+              106.282194,
+              22.870179
+            ],
+            [
+              106.570774,
+              22.920194
+            ],
+            [
+              106.785542,
+              22.839977
+            ],
+            [
+              106.721692,
+              22.59904
+            ],
+            [
+              106.611406,
+              22.588322
+            ],
+            [
+              106.556611,
+              22.425404
+            ],
+            [
+              106.696069,
+              22.223296
+            ],
+            [
+              106.696069,
+              21.960549
+            ],
+            [
+              106.965689,
+              21.969172
+            ],
+            [
+              107.067959,
+              21.908804
+            ],
+            [
+              107.016824,
+              21.82252
+            ],
+            [
+              107.216714,
+              21.714592
+            ],
+            [
+              107.309686,
+              21.731866
+            ],
+            [
+              107.374767,
+              21.619549
+            ],
+            [
+              107.759139,
+              21.632344
+            ],
+            [
+              108.077579,
+              21.534414
+            ],
+            [
+              106.783994,
+              20.765211
+            ],
+            [
+              106.025474,
+              19.944458
+            ],
+            [
+              105.639634,
+              18.843145
+            ],
+            [
+              107.023139,
+              17.133916
+            ],
+            [
+              106.500081,
+              16.976194
+            ],
+            [
+              103.882694,
+              19.288307
+            ],
+            [
+              104.4503,
+              20.428737
+            ],
+            [
+              104.844792,
+              21.389556
+            ],
+            [
+              105.101472,
+              21.736778
+            ],
+            [
+              104.868127,
+              22.202038
+            ],
+            [
+              105.148141,
+              22.676526
+            ],
+            [
+              105.474824,
+              22.644226
+            ],
+            [
+              105.276481,
+              22.902411
+            ],
+            [
+              105.468636,
+              23.194539
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "58337e23b0d8da442c6a330a9ca50df2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "蓟"
+      },
+      "geometry": {
+        "coordinates": [
+          116.22651,
+          39.842501
+        ],
+        "type": "Point"
+      },
+      "id": "59a4f014889c27b9c0a9cd458ee631e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "平原"
+      },
+      "geometry": {
+        "coordinates": [
+          116.444091,
+          37.169071
+        ],
+        "type": "Point"
+      },
+      "id": "5d926bfd36601f5f8d02ef63885ff851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "襄阳"
+      },
+      "geometry": {
+        "coordinates": [
+          112.108612,
+          31.995265
+        ],
+        "type": "Point"
+      },
+      "id": "5eb207e2cdd947ff285e1d78ec802fd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "永昌"
+      },
+      "geometry": {
+        "coordinates": [
+          99.18457,
+          25.025884
+        ],
+        "type": "Point"
+      },
+      "id": "5eccda59b3538ac399a212777831b769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "晋阳"
+      },
+      "geometry": {
+        "coordinates": [
+          112.557678,
+          37.872685
+        ],
+        "type": "Point"
+      },
+      "id": "67c258472595259cf757d4bfc5c65492"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              105.531278,
+              32.79589
+            ],
+            [
+              105.97811,
+              33.157346
+            ],
+            [
+              106.385046,
+              33.477395
+            ],
+            [
+              107.294668,
+              33.756471
+            ],
+            [
+              107.861187,
+              33.676827
+            ],
+            [
+              108.20429,
+              33.397493
+            ],
+            [
+              108.268123,
+              32.943329
+            ],
+            [
+              107.950665,
+              32.535231
+            ],
+            [
+              107.788826,
+              32.318404
+            ],
+            [
+              107.217361,
+              32.360948
+            ],
+            [
+              106.57105,
+              32.394641
+            ],
+            [
+              105.685366,
+              32.596537
+            ],
+            [
+              105.531278,
+              32.79589
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "68219a6c7e0d795919b957a8291eed37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "北平"
+      },
+      "geometry": {
+        "coordinates": [
+          118.079888,
+          39.713456
+        ],
+        "type": "Point"
+      },
+      "id": "6aea671174de4587bee1f34c81472d14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "成都"
+      },
+      "geometry": {
+        "coordinates": [
+          104.073486,
+          30.685163
+        ],
+        "type": "Point"
+      },
+      "id": "6cc22dd36da1bb7ec54b6012a959f61f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "city": "襄平"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              124.291261,
+              39.912299
+            ],
+            [
+              125.425003,
+              39.361101
+            ],
+            [
+              124.728785,
+              38.120665
+            ],
+            [
+              125.260838,
+              37.701531
+            ],
+            [
+              125.623848,
+              37.755814
+            ],
+            [
+              125.588295,
+              38.035888
+            ],
+            [
+              126.104167,
+              37.752848
+            ],
+            [
+              126.418832,
+              37.865252
+            ],
+            [
+              126.467957,
+              38.983903
+            ],
+            [
+              124.714873,
+              40.314537
+            ],
+            [
+              124.577232,
+              41.203053
+            ],
+            [
+              123.948411,
+              42.269701
+            ],
+            [
+              122.21949,
+              41.896139
+            ],
+            [
+              120.355679,
+              41.458256
+            ],
+            [
+              119.544064,
+              40.549912
+            ],
+            [
+              119.850403,
+              39.968904
+            ],
+            [
+              120.483536,
+              40.233486
+            ],
+            [
+              120.932461,
+              40.714251
+            ],
+            [
+              121.166471,
+              40.889595
+            ],
+            [
+              121.671296,
+              40.847863
+            ],
+            [
+              121.830027,
+              40.947293
+            ],
+            [
+              121.948242,
+              40.693134
+            ],
+            [
+              122.088317,
+              40.659805
+            ],
+            [
+              122.145996,
+              40.693134
+            ],
+            [
+              122.137756,
+              40.599356
+            ],
+            [
+              122.253112,
+              40.484559
+            ],
+            [
+              122.132263,
+              40.340263
+            ],
+            [
+              122.00592,
+              40.180971
+            ],
+            [
+              121.912536,
+              40.078071
+            ],
+            [
+              121.706542,
+              39.924482
+            ],
+            [
+              121.448364,
+              39.764214
+            ],
+            [
+              121.514282,
+              39.618383
+            ],
+            [
+              121.228637,
+              39.584523
+            ],
+            [
+              121.25885,
+              39.372525
+            ],
+            [
+              121.401672,
+              39.370402
+            ],
+            [
+              121.560974,
+              39.323674
+            ],
+            [
+              121.637878,
+              39.196076
+            ],
+            [
+              121.624145,
+              39.093831
+            ],
+            [
+              121.08588,
+              38.92562
+            ],
+            [
+              121.124715,
+              38.694715
+            ],
+            [
+              124.291261,
+              39.912299
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6dfe7c577f42c35e2a8145278d602ef1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "北海"
+      },
+      "geometry": {
+        "coordinates": [
+          119.157714,
+          36.705861
+        ],
+        "type": "Point"
+      },
+      "id": "70f20feb723aa1e36aa1817d7d1b2e60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "长安"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              108.543136,
+              35.619381
+            ],
+            [
+              109.227234,
+              35.038331
+            ],
+            [
+              110.267437,
+              34.622948
+            ],
+            [
+              110.632914,
+              33.879339
+            ],
+            [
+              111.026504,
+              33.551951
+            ],
+            [
+              110.979648,
+              33.238994
+            ],
+            [
+              110.661028,
+              33.097796
+            ],
+            [
+              110.548573,
+              33.231156
+            ],
+            [
+              110.192467,
+              33.160579
+            ],
+            [
+              109.024895,
+              33.81948
+            ],
+            [
+              107.971359,
+              33.596488
+            ],
+            [
+              107.871617,
+              33.679529
+            ],
+            [
+              107.310562,
+              33.746942
+            ],
+            [
+              106.369238,
+              33.497772
+            ],
+            [
+              106.468981,
+              33.850549
+            ],
+            [
+              107.129778,
+              34.951257
+            ],
+            [
+              108.102272,
+              35.012549
+            ],
+            [
+              108.532414,
+              35.328493
+            ],
+            [
+              108.543136,
+              35.619381
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "775da19d8c148838accaf7da19381b73"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "零陵"
+      },
+      "geometry": {
+        "coordinates": [
+          111.626586,
+          26.219519
+        ],
+        "type": "Point"
+      },
+      "id": "77ee45441e34020cf88e6c9a451b3e27"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              112.192547,
+              33.739804
+            ],
+            [
+              113.22293,
+              33.736733
+            ],
+            [
+              113.241396,
+              34.351816
+            ],
+            [
+              113.16384,
+              34.850358
+            ],
+            [
+              113.126041,
+              35.337595
+            ],
+            [
+              112.055558,
+              35.275826
+            ],
+            [
+              112.037537,
+              35.040084
+            ],
+            [
+              111.875343,
+              35.093186
+            ],
+            [
+              111.64827,
+              34.978089
+            ],
+            [
+              111.558162,
+              34.839167
+            ],
+            [
+              111.428407,
+              34.836209
+            ],
+            [
+              112.192547,
+              33.739804
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "792380116683adbb368dec85923b6fd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "广陵"
+      },
+      "geometry": {
+        "coordinates": [
+          119.113769,
+          33.555129
+        ],
+        "type": "Point"
+      },
+      "id": "7c60e31f4476415a347058b2d91d71d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "谯"
+      },
+      "geometry": {
+        "coordinates": [
+          115.795898,
+          33.870415
+        ],
+        "type": "Point"
+      },
+      "id": "81ce92c4782133749729778e309f24b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "下邳"
+      },
+      "geometry": {
+        "coordinates": [
+          118.022003,
+          33.934245
+        ],
+        "type": "Point"
+      },
+      "id": "84e86ebf4fa08c3fb925010466ec85f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "襄平"
+      },
+      "geometry": {
+        "coordinates": [
+          122.942191,
+          41.124383
+        ],
+        "type": "Point"
+      },
+      "id": "89e3c65c2f7e3c1316bf60645c03a243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "越巂"
+      },
+      "geometry": {
+        "coordinates": [
+          102.260742,
+          27.882783
+        ],
+        "type": "Point"
+      },
+      "id": "8ae211d22bbdcf257f74f30c772901ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "南皮"
+      },
+      "geometry": {
+        "coordinates": [
+          116.677551,
+          38.052416
+        ],
+        "type": "Point"
+      },
+      "id": "8b934720cb95a19f8106efe3913b3182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "汉中"
+      },
+      "geometry": {
+        "coordinates": [
+          107.001342,
+          33.082336
+        ],
+        "type": "Point"
+      },
+      "id": "8e89ccad5d31f5275cf4c6a3c49626ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "city": "南皮"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              117.374294,
+              38.828496
+            ],
+            [
+              117.134957,
+              38.832044
+            ],
+            [
+              116.742979,
+              38.833309
+            ],
+            [
+              116.161408,
+              38.80822
+            ],
+            [
+              116.087036,
+              38.725429
+            ],
+            [
+              115.862503,
+              38.440682
+            ],
+            [
+              115.710926,
+              38.248022
+            ],
+            [
+              115.692214,
+              38.117271
+            ],
+            [
+              115.675048,
+              37.994539
+            ],
+            [
+              115.637969,
+              37.742485
+            ],
+            [
+              116.146774,
+              37.876479
+            ],
+            [
+              116.789474,
+              37.841783
+            ],
+            [
+              117.404708,
+              37.86347
+            ],
+            [
+              117.56401,
+              38.075663
+            ],
+            [
+              117.723312,
+              38.110248
+            ],
+            [
+              117.860641,
+              38.274305
+            ],
+            [
+              117.60633,
+              38.799631
+            ],
+            [
+              117.374294,
+              38.828496
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "930f7c12ce3a1172da9b914d12360658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "city": "北海"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              119.264831,
+              37.859946
+            ],
+            [
+              119.206466,
+              37.767729
+            ],
+            [
+              119.09317,
+              37.762029
+            ],
+            [
+              119.005279,
+              37.794592
+            ],
+            [
+              118.917388,
+              37.786996
+            ],
+            [
+              118.822631,
+              37.752258
+            ],
+            [
+              118.65921,
+              37.722935
+            ],
+            [
+              118.582305,
+              37.635984
+            ],
+            [
+              118.510894,
+              37.601176
+            ],
+            [
+              118.332366,
+              37.595735
+            ],
+            [
+              118.303527,
+              37.511904
+            ],
+            [
+              118.245849,
+              37.466138
+            ],
+            [
+              118.233489,
+              37.396346
+            ],
+            [
+              118.039855,
+              37.33304
+            ],
+            [
+              117.8833,
+              37.266402
+            ],
+            [
+              117.828369,
+              37.284979
+            ],
+            [
+              117.754211,
+              37.245634
+            ],
+            [
+              117.651214,
+              37.276238
+            ],
+            [
+              117.575683,
+              37.15156
+            ],
+            [
+              117.23236,
+              37.037639
+            ],
+            [
+              117.13623,
+              36.821378
+            ],
+            [
+              117.001647,
+              36.730079
+            ],
+            [
+              116.836853,
+              36.726777
+            ],
+            [
+              116.570434,
+              36.425702
+            ],
+            [
+              116.279296,
+              36.260884
+            ],
+            [
+              117.745971,
+              36.248703
+            ],
+            [
+              118.234863,
+              36.182224
+            ],
+            [
+              118.718261,
+              36.026889
+            ],
+            [
+              119.396667,
+              36.082401
+            ],
+            [
+              120.085716,
+              36.057148
+            ],
+            [
+              120.147514,
+              36.117354
+            ],
+            [
+              120.246047,
+              36.161438
+            ],
+            [
+              120.349731,
+              36.165596
+            ],
+            [
+              120.294799,
+              36.050209
+            ],
+            [
+              120.418395,
+              36.05465
+            ],
+            [
+              120.544738,
+              36.112361
+            ],
+            [
+              120.70816,
+              36.134547
+            ],
+            [
+              120.666961,
+              36.233196
+            ],
+            [
+              120.679321,
+              36.273064
+            ],
+            [
+              120.642242,
+              36.267528
+            ],
+            [
+              120.658721,
+              36.297418
+            ],
+            [
+              120.653228,
+              36.331721
+            ],
+            [
+              120.732879,
+              36.337253
+            ],
+            [
+              120.688934,
+              36.372644
+            ],
+            [
+              120.746612,
+              36.434541
+            ],
+            [
+              120.746612,
+              36.462158
+            ],
+            [
+              120.822143,
+              36.464367
+            ],
+            [
+              120.846862,
+              36.385912
+            ],
+            [
+              120.874328,
+              36.37375
+            ],
+            [
+              120.901794,
+              36.440066
+            ],
+            [
+              120.951232,
+              36.463263
+            ],
+            [
+              120.974578,
+              36.526191
+            ],
+            [
+              120.996551,
+              36.574732
+            ],
+            [
+              121.13388,
+              36.660707
+            ],
+            [
+              121.24649,
+              36.691547
+            ],
+            [
+              121.393432,
+              36.709164
+            ],
+            [
+              121.390686,
+              36.752089
+            ],
+            [
+              121.46347,
+              36.774092
+            ],
+            [
+              121.506042,
+              36.759791
+            ],
+            [
+              121.55548,
+              36.73228
+            ],
+            [
+              121.57608,
+              36.763091
+            ],
+            [
+              121.637878,
+              36.738884
+            ],
+            [
+              121.622772,
+              36.804886
+            ],
+            [
+              121.743621,
+              36.842262
+            ],
+            [
+              121.751861,
+              36.877423
+            ],
+            [
+              121.964721,
+              36.948794
+            ],
+            [
+              121.964721,
+              36.961963
+            ],
+            [
+              122.015533,
+              36.969643
+            ],
+            [
+              122.038879,
+              36.902685
+            ],
+            [
+              122.078704,
+              36.919156
+            ],
+            [
+              122.100677,
+              36.937818
+            ],
+            [
+              122.125396,
+              36.865338
+            ],
+            [
+              122.183074,
+              36.845559
+            ],
+            [
+              122.258605,
+              36.842262
+            ],
+            [
+              122.33963,
+              36.834569
+            ],
+            [
+              122.373962,
+              36.845559
+            ],
+            [
+              122.371215,
+              36.86424
+            ],
+            [
+              122.406921,
+              36.862042
+            ],
+            [
+              122.434387,
+              36.881817
+            ],
+            [
+              122.406921,
+              36.919156
+            ],
+            [
+              122.503051,
+              36.931232
+            ],
+            [
+              122.493438,
+              36.893899
+            ],
+            [
+              122.538757,
+              36.923547
+            ],
+            [
+              122.520904,
+              36.934525
+            ],
+            [
+              122.546997,
+              36.977323
+            ],
+            [
+              122.52777,
+              37.002552
+            ],
+            [
+              122.571716,
+              37.042024
+            ],
+            [
+              122.452239,
+              37.035447
+            ],
+            [
+              122.401428,
+              36.990487
+            ],
+            [
+              122.406921,
+              37.032158
+            ],
+            [
+              122.459106,
+              37.066135
+            ],
+            [
+              122.489318,
+              37.15156
+            ],
+            [
+              122.585449,
+              37.149371
+            ],
+            [
+              122.560729,
+              37.170165
+            ],
+            [
+              122.623901,
+              37.197518
+            ],
+            [
+              122.557983,
+              37.290442
+            ],
+            [
+              122.600555,
+              37.331948
+            ],
+            [
+              122.553863,
+              37.354876
+            ],
+            [
+              122.681579,
+              37.378887
+            ],
+            [
+              122.707672,
+              37.394164
+            ],
+            [
+              122.681579,
+              37.415981
+            ],
+            [
+              122.468719,
+              37.424707
+            ],
+            [
+              122.261352,
+              37.421435
+            ],
+            [
+              122.294311,
+              37.446516
+            ],
+            [
+              122.242126,
+              37.466138
+            ],
+            [
+              122.166595,
+              37.426888
+            ],
+            [
+              122.139129,
+              37.479217
+            ],
+            [
+              122.165222,
+              37.520618
+            ],
+            [
+              122.119903,
+              37.558731
+            ],
+            [
+              121.891937,
+              37.465048
+            ],
+            [
+              121.640625,
+              37.481397
+            ],
+            [
+              121.460723,
+              37.465048
+            ],
+            [
+              121.387939,
+              37.627284
+            ],
+            [
+              121.168212,
+              37.579412
+            ],
+            [
+              121.14212,
+              37.706639
+            ],
+            [
+              120.922393,
+              37.814123
+            ],
+            [
+              120.7164,
+              37.836903
+            ],
+            [
+              120.451354,
+              37.745743
+            ],
+            [
+              120.217895,
+              37.684907
+            ],
+            [
+              120.237121,
+              37.550021
+            ],
+            [
+              119.83612,
+              37.365791
+            ],
+            [
+              119.899291,
+              37.275145
+            ],
+            [
+              119.74411,
+              37.122001
+            ],
+            [
+              119.704284,
+              37.150465
+            ],
+            [
+              119.282684,
+              37.13514
+            ],
+            [
+              119.282684,
+              37.196424
+            ],
+            [
+              119.175567,
+              37.258752
+            ],
+            [
+              119.06845,
+              37.224861
+            ],
+            [
+              118.98468,
+              37.313383
+            ],
+            [
+              118.916015,
+              37.378887
+            ],
+            [
+              118.927001,
+              37.481397
+            ],
+            [
+              118.899536,
+              37.523886
+            ],
+            [
+              118.951721,
+              37.606616
+            ],
+            [
+              119.046478,
+              37.72728
+            ],
+            [
+              119.182434,
+              37.71859
+            ],
+            [
+              119.257965,
+              37.653383
+            ],
+            [
+              119.277877,
+              37.701207
+            ],
+            [
+              119.264831,
+              37.859946
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "94b7879250dcabbcd3f211f87a1033b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": " 吴"
+      },
+      "geometry": {
+        "coordinates": [
+          120.625076,
+          31.266079
+        ],
+        "type": "Point"
+      },
+      "id": "9aea4b8a985e601d865a77949d571811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "city": "钜鹿"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              115.318679,
+              36.953184
+            ],
+            [
+              115.488967,
+              37.193689
+            ],
+            [
+              115.636596,
+              37.741399
+            ],
+            [
+              115.198516,
+              37.916576
+            ],
+            [
+              114.836654,
+              38.02754
+            ],
+            [
+              114.470672,
+              38.037275
+            ],
+            [
+              114.027099,
+              38.110788
+            ],
+            [
+              113.56842,
+              38.017803
+            ],
+            [
+              113.771667,
+              37.524975
+            ],
+            [
+              113.384399,
+              37.109955
+            ],
+            [
+              113.760681,
+              37.105574
+            ],
+            [
+              113.840332,
+              37.158127
+            ],
+            [
+              114.21936,
+              37.066135
+            ],
+            [
+              114.411621,
+              36.969643
+            ],
+            [
+              114.576416,
+              37.013519
+            ],
+            [
+              115.318679,
+              36.953184
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "9c3c7dca8d853facf5ede4c6bc321b32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "武陵"
+      },
+      "geometry": {
+        "coordinates": [
+          111.676883,
+          29.054969
+        ],
+        "type": "Point"
+      },
+      "id": "9f384bc4a1051e90d1479c26844061ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "洛阳"
+      },
+      "geometry": {
+        "coordinates": [
+          112.416229,
+          34.658063
+        ],
+        "type": "Point"
+      },
+      "id": "a2051c9304db04bc1bddbd81ac7aef91"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "上党"
+      },
+      "geometry": {
+        "coordinates": [
+          113.082275,
+          36.186658
+        ],
+        "type": "Point"
+      },
+      "id": "a4e495b89315c6523a0bfc41a83eadd6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "city": "甘陵"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              116.28067,
+              36.25867
+            ],
+            [
+              116.31792,
+              36.896919
+            ],
+            [
+              116.240329,
+              36.936858
+            ],
+            [
+              116.301012,
+              37.457077
+            ],
+            [
+              116.319036,
+              37.513674
+            ],
+            [
+              116.505289,
+              37.857168
+            ],
+            [
+              116.147546,
+              37.876818
+            ],
+            [
+              115.637969,
+              37.743571
+            ],
+            [
+              115.489654,
+              37.190954
+            ],
+            [
+              115.320739,
+              36.956476
+            ],
+            [
+              115.124359,
+              36.606708
+            ],
+            [
+              115.08728,
+              36.403599
+            ],
+            [
+              115.83435,
+              36.368221
+            ],
+            [
+              116.28067,
+              36.25867
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "a87354535af9291262e7365af794b644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "庐江",
+        "fill-opacity": ""
+      },
+      "geometry": {
+        "coordinates": [
+          116.831359,
+          30.740655
+        ],
+        "type": "Point"
+      },
+      "id": "ae66996df8dc8c9c84e1e5a0442bf34d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "上庸"
+      },
+      "geometry": {
+        "coordinates": [
+          110.22583,
+          32.226742
+        ],
+        "type": "Point"
+      },
+      "id": "b31f67fa78dd673a1858bbc100c260e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "梓潼"
+      },
+      "geometry": {
+        "coordinates": [
+          105.161132,
+          31.644028
+        ],
+        "type": "Point"
+      },
+      "id": "b8fce5ab612e28a9d3be9c00da046154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "邺"
+      },
+      "geometry": {
+        "coordinates": [
+          114.472045,
+          36.575835
+        ],
+        "type": "Point"
+      },
+      "id": "bb8e1e29b82fe387c698d1fd41937204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "寿春"
+      },
+      "geometry": {
+        "coordinates": [
+          116.783294,
+          32.564175
+        ],
+        "type": "Point"
+      },
+      "id": "c4a20ddab4eada2dff40c8beebc26f56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "建安"
+      },
+      "geometry": {
+        "coordinates": [
+          118.287048,
+          27.017537
+        ],
+        "type": "Point"
+      },
+      "id": "c4b76bdf69ab08e7956a2b2ece23a2df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "city": "平原"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              117.860641,
+              38.274238
+            ],
+            [
+              117.724685,
+              38.110788
+            ],
+            [
+              117.56298,
+              38.075663
+            ],
+            [
+              117.408142,
+              37.861844
+            ],
+            [
+              116.789817,
+              37.842054
+            ],
+            [
+              116.505889,
+              37.857507
+            ],
+            [
+              116.319122,
+              37.514083
+            ],
+            [
+              116.301269,
+              37.457418
+            ],
+            [
+              116.240844,
+              36.93672
+            ],
+            [
+              116.317749,
+              36.897194
+            ],
+            [
+              116.279296,
+              36.257562
+            ],
+            [
+              116.570434,
+              36.425702
+            ],
+            [
+              116.839599,
+              36.728978
+            ],
+            [
+              117.000274,
+              36.728978
+            ],
+            [
+              117.133483,
+              36.821378
+            ],
+            [
+              117.23648,
+              37.039832
+            ],
+            [
+              117.57431,
+              37.152655
+            ],
+            [
+              117.652587,
+              37.274052
+            ],
+            [
+              117.756958,
+              37.244541
+            ],
+            [
+              117.829742,
+              37.283887
+            ],
+            [
+              117.88742,
+              37.262031
+            ],
+            [
+              118.041229,
+              37.33304
+            ],
+            [
+              118.144226,
+              37.359242
+            ],
+            [
+              118.22937,
+              37.394164
+            ],
+            [
+              118.247222,
+              37.469408
+            ],
+            [
+              118.298034,
+              37.506457
+            ],
+            [
+              118.332366,
+              37.596824
+            ],
+            [
+              118.515014,
+              37.602264
+            ],
+            [
+              118.580932,
+              37.632722
+            ],
+            [
+              118.664703,
+              37.72728
+            ],
+            [
+              118.807525,
+              37.752258
+            ],
+            [
+              118.916015,
+              37.788081
+            ],
+            [
+              119.006652,
+              37.794592
+            ],
+            [
+              119.100379,
+              37.761758
+            ],
+            [
+              119.207153,
+              37.768543
+            ],
+            [
+              119.263458,
+              37.859675
+            ],
+            [
+              119.163208,
+              37.808698
+            ],
+            [
+              119.098663,
+              37.84341
+            ],
+            [
+              119.091796,
+              37.918201
+            ],
+            [
+              119.002532,
+              37.951778
+            ],
+            [
+              118.983306,
+              38.028622
+            ],
+            [
+              118.914642,
+              38.123753
+            ],
+            [
+              118.777313,
+              38.148597
+            ],
+            [
+              118.657836,
+              38.125914
+            ],
+            [
+              118.535614,
+              38.052416
+            ],
+            [
+              118.498535,
+              38.092417
+            ],
+            [
+              118.155555,
+              38.139147
+            ],
+            [
+              118.163452,
+              38.17802
+            ],
+            [
+              118.11573,
+              38.189894
+            ],
+            [
+              118.074531,
+              38.184227
+            ],
+            [
+              118.069381,
+              38.190974
+            ],
+            [
+              118.043632,
+              38.180989
+            ],
+            [
+              117.954025,
+              38.223077
+            ],
+            [
+              117.860641,
+              38.274238
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "c69c67e7b2a8dcf27653b456f1cb0cad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "钜鹿"
+      },
+      "geometry": {
+        "coordinates": [
+          115.035095,
+          37.206269
+        ],
+        "type": "Point"
+      },
+      "id": "c71dc9413d0a413d12dcf7dde5b2a554"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.414842,
+              36.749877
+            ],
+            [
+              110.671457,
+              37.49584
+            ],
+            [
+              111.505455,
+              37.855506
+            ],
+            [
+              112.211146,
+              38.112543
+            ],
+            [
+              112.809914,
+              38.928164
+            ],
+            [
+              113.804297,
+              38.990521
+            ],
+            [
+              113.815559,
+              38.729956
+            ],
+            [
+              113.587695,
+              37.980799
+            ],
+            [
+              113.770409,
+              37.509107
+            ],
+            [
+              113.384354,
+              37.11833
+            ],
+            [
+              112.094578,
+              37.14631
+            ],
+            [
+              111.796263,
+              36.528364
+            ],
+            [
+              110.414842,
+              36.749877
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "c9860b2327754fb2488383178831c4eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "甘陵"
+      },
+      "geometry": {
+        "coordinates": [
+          115.7135,
+          36.851054
+        ],
+        "type": "Point"
+      },
+      "id": "cc391240d9d0b6b67aa182a2d339f7a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "合浦",
+        "fill-opacity": ""
+      },
+      "geometry": {
+        "coordinates": [
+          109.201354,
+          21.665086
+        ],
+        "type": "Point"
+      },
+      "id": "cceed9d8786a362f92ec14472168abfa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "江夏"
+      },
+      "geometry": {
+        "coordinates": [
+          113.749351,
+          31.024988
+        ],
+        "type": "Point"
+      },
+      "id": "d1ddee437bd9b8fe9e8d815b229ee4d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "陈留"
+      },
+      "geometry": {
+        "coordinates": [
+          114.52835,
+          34.66964
+        ],
+        "type": "Point"
+      },
+      "id": "d47c95202a9ac8157dc44f412a21e5bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "牂牁",
+        "fill-opacity": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.5177,
+          26.258936
+        ],
+        "type": "Point"
+      },
+      "id": "d5110337eafd4d530680e65d095300d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "许昌"
+      },
+      "geometry": {
+        "coordinates": [
+          113.832092,
+          34.043556
+        ],
+        "type": "Point"
+      },
+      "id": "d6eb053aad049556f37103313b1eec40"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "city": "中山"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              115.63694,
+              37.742078
+            ],
+            [
+              115.711269,
+              38.248291
+            ],
+            [
+              116.151382,
+              38.806631
+            ],
+            [
+              115.648781,
+              38.814357
+            ],
+            [
+              115.706072,
+              39.218908
+            ],
+            [
+              115.742538,
+              39.553517
+            ],
+            [
+              115.677713,
+              39.556166
+            ],
+            [
+              115.43061,
+              39.294329
+            ],
+            [
+              115.085356,
+              39.126857
+            ],
+            [
+              114.826494,
+              39.050563
+            ],
+            [
+              114.584027,
+              38.926435
+            ],
+            [
+              114.465693,
+              38.813386
+            ],
+            [
+              114.380897,
+              38.756124
+            ],
+            [
+              114.097922,
+              38.708238
+            ],
+            [
+              113.789508,
+              38.630318
+            ],
+            [
+              113.757328,
+              38.509096
+            ],
+            [
+              113.584981,
+              38.025273
+            ],
+            [
+              114.034481,
+              38.106871
+            ],
+            [
+              114.47668,
+              38.037681
+            ],
+            [
+              114.835796,
+              38.026864
+            ],
+            [
+              115.197658,
+              37.916982
+            ],
+            [
+              115.63694,
+              37.742078
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d7ad1cce9412303ed5c5bfde36a5885f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "建宁"
+      },
+      "geometry": {
+        "coordinates": [
+          103.809814,
+          25.502784
+        ],
+        "type": "Point"
+      },
+      "id": "d86769952f4c3cfbb5f578ef519862d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "宛"
+      },
+      "geometry": {
+        "coordinates": [
+          112.534332,
+          32.993691
+        ],
+        "type": "Point"
+      },
+      "id": "df0feedc5af017c10040a9c354f7f816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "江州"
+      },
+      "geometry": {
+        "coordinates": [
+          106.534423,
+          29.592565
+        ],
+        "type": "Point"
+      },
+      "id": "e06b98b73838b49c69c1dc4f6fcf8775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "桂阳"
+      },
+      "geometry": {
+        "coordinates": [
+          112.727966,
+          25.750424
+        ],
+        "type": "Point"
+      },
+      "id": "e1ac2604eac09c9dc55a078ccef70fbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "city": "邺"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              113.744201,
+              36.244273
+            ],
+            [
+              113.829345,
+              36.242058
+            ],
+            [
+              113.933715,
+              36.060201
+            ],
+            [
+              114.101257,
+              36.104595
+            ],
+            [
+              114.175415,
+              36.104595
+            ],
+            [
+              114.353942,
+              36.024668
+            ],
+            [
+              114.494018,
+              36.031331
+            ],
+            [
+              114.584655,
+              36.051319
+            ],
+            [
+              114.960937,
+              36.01356
+            ],
+            [
+              115.092773,
+              36.044657
+            ],
+            [
+              115.155944,
+              36.191092
+            ],
+            [
+              115.084533,
+              36.315125
+            ],
+            [
+              115.08728,
+              36.410231
+            ],
+            [
+              115.124359,
+              36.610567
+            ],
+            [
+              115.318679,
+              36.954281
+            ],
+            [
+              114.574356,
+              37.014067
+            ],
+            [
+              114.410934,
+              36.970192
+            ],
+            [
+              114.2173,
+              37.068327
+            ],
+            [
+              113.839645,
+              37.158674
+            ],
+            [
+              113.760681,
+              37.106669
+            ],
+            [
+              113.383712,
+              37.110503
+            ],
+            [
+              113.545074,
+              36.944952
+            ],
+            [
+              113.396072,
+              36.747687
+            ],
+            [
+              113.448944,
+              36.688243
+            ],
+            [
+              113.408432,
+              36.540536
+            ],
+            [
+              113.707122,
+              36.413546
+            ],
+            [
+              113.744201,
+              36.244273
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "e49e33ac820783c14a85e66a6347c3d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "安定"
+      },
+      "geometry": {
+        "coordinates": [
+          106.969785,
+          35.62633
+        ],
+        "type": "Point"
+      },
+      "id": "e528658194569d32f5628dfb934d8dd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "豫章"
+      },
+      "geometry": {
+        "coordinates": [
+          115.856323,
+          28.685768
+        ],
+        "type": "Point"
+      },
+      "id": "e68ebe5c702adc1775637a249d0be672"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              105.400355,
+              36.022647
+            ],
+            [
+              107.365756,
+              35.862119
+            ],
+            [
+              108.517131,
+              35.845629
+            ],
+            [
+              108.534603,
+              35.318537
+            ],
+            [
+              108.109286,
+              35.029129
+            ],
+            [
+              107.659115,
+              34.97492
+            ],
+            [
+              107.098802,
+              34.94622
+            ],
+            [
+              106.512225,
+              35.08962
+            ],
+            [
+              105.557943,
+              35.717584
+            ],
+            [
+              105.269032,
+              35.958894
+            ],
+            [
+              105.400355,
+              36.022647
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "eb88cc91852eb3bc17962fe7e7fb4aba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city": "弘农"
+      },
+      "geometry": {
+        "coordinates": [
+          110.879259,
+          34.545236
+        ],
+        "type": "Point"
+      },
+      "id": "ebcc5c4f7fdbfc58410cf01c63e0f690"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              103.292526,
+              32.784926
+            ],
+            [
+              104.124732,
+              32.211829
+            ],
+            [
+              104.78897,
+              32.160136
+            ],
+            [
+              105.544826,
+              32.797762
+            ],
+            [
+              106.384667,
+              33.500909
+            ],
+            [
+              106.468651,
+              33.875721
+            ],
+            [
+              105.292874,
+              34.034045
+            ],
+            [
+              104.170541,
+              34.204705
+            ],
+            [
+              103.292526,
+              32.784926
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "f2a3ed61ea1409aa20acfafca5057bb3"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              104.261456,
+              37.427134
+            ],
+            [
+              105.451988,
+              36.036886
+            ],
+            [
+              105.270574,
+              35.945146
+            ],
+            [
+              103.286354,
+              32.782408
+            ],
+            [
+              102.653589,
+              32.867231
+            ],
+            [
+              102.640066,
+              36.785117
+            ],
+            [
+              104.261456,
+              37.427134
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "fa2c7998bf0bd1d2f1f15fc709fa62d1"
+    }
+  ],
+  "type": "FeatureCollection"
+}
